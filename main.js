@@ -1,4 +1,3 @@
-//document.write('this is testing for warren map');
 
 
 
